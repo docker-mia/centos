@@ -24,7 +24,6 @@ nmcli networking on
 
 sleep 5 # Esto añade un retardo de 5 segundos
 
-
 RETRIES=1
 
 # Ejecuta dentro de este script el script cliookla.sh
